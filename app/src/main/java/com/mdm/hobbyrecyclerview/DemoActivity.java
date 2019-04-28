@@ -17,7 +17,6 @@ public class DemoActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_demo);
         HobbyRecyclerView recyclerView = findViewById(R.id.recyclerView);
-
         List<String> list = new ArrayList<String>(){
             {
                 add("哈哈哈哈sdfsdfadfafadfadfadfadfadfadfadfadfadfadfadfadfadfadfadfadfaasasdasdsdfafhfsdfsdfsdfsdfsdfdsfa哈哈哈哈sdfsdfadfafadfadfadfadfadfadfadfadfadfadfadfadfaddfsdfsdfsdfsdfd");
