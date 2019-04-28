@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<attr name="rightPadding" format="dimension" />-->
+    <declare-styleable name="HobbyRecyclerView">
+        <attr name="scrollBarMode" format="integer">
+            <enum name="auto" value="1"/>
+            <enum name="mine" value="2"/>
+        </attr>
+    </declare-styleable>
+</resources>
